@@ -74,10 +74,4 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
 
-Hi there! I'm **Venkata Naga Sai Charan Bendapudi**. I’m an IT Graduate with a growing passion for the data field. I'm on a mission to explore the world of data and share knowledge in a way that's engaging, insightful, and enjoyable for others on the same journey!
-
-Let's stay in touch! Feel free to connect with me on:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charanbendapudi/)
